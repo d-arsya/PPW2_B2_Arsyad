@@ -1,0 +1,4 @@
+ini contoh
+dalam bentuk paragraf
+didalam satu file
+menggunakan php
