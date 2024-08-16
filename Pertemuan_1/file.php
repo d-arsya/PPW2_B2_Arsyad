@@ -1,6 +1,6 @@
 <?php  
 $file = fopen('kata.txt','r');
-echo fgetss($file);
+echo fgets($file)."<br><br>";
 fclose($file);
 
 $data = fopen('data.txt','r');

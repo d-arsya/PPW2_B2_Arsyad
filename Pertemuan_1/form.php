@@ -13,7 +13,7 @@
                     NIM
                 </td>
                 <td>
-                    <input type="text" name="NIM" id="" placeholder="NIM">
+                    <input type="text" name="nim" id="" placeholder="NIM">
                 </td>
             </tr>
             <tr>
@@ -44,6 +44,7 @@
                         <option value="Teknik Informatika">Teknik Informatika</option>
                         <option value="Teknik Mesin">Teknik Mesin</option>
                         <option value="Teknik Kimia">Teknik Kimia</option>
+                        <option value="Sistem Informasi">Sistem Informasi</option>
                     </select>
                 </td>
             </tr>
